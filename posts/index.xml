@@ -6,7 +6,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Some copyright notice - [my license](https://example.com/license)</copyright>
-    <lastBuildDate>Fri, 21 Feb 2025 18:15:29 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Fri, 21 Feb 2025 18:52:04 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>Myposta_3</title>
+      <link>http://localhost:1313/posts/myposta_3/</link>
+      <pubDate>Fri, 21 Feb 2025 18:52:04 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/myposta_3/</guid>
+      <description><![CDATA[<p>mas cosas</p>
+]]></description>
+      
+    </item>
+    
     
     
     <item>
